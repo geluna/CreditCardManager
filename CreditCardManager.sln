@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCardManager", "CreditCardManager.vbproj", "{2C20C9CC-26B7-48A2-A966-D0833330F633}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PCA.Core", "..\..\..\..\..\SVN\PCA.Core\PCA.Core\PCA.Core.vbproj", "{FEB98268-A419-4E18-B9DB-8EF56AC45B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Release|x64.ActiveCfg = Release|Any CPU
+		{2C20C9CC-26B7-48A2-A966-D0833330F633}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|x64.ActiveCfg = Debug|x64
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|x64.Build.0 = Debug|x64
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Debug|x86.Build.0 = Debug|x86
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|x64.ActiveCfg = Release|x64
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|x64.Build.0 = Release|x64
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|x86.ActiveCfg = Release|x86
+		{FEB98268-A419-4E18-B9DB-8EF56AC45B99}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

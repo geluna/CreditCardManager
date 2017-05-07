@@ -1,0 +1,16 @@
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.exe.config
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.exe
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.pdb
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.xml
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.Resources.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.vbproj.GenerateResource.Cache
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.exe
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.xml
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.pdb
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.vbprojResolveAssemblyReference.cache
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.AddingAccount.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.CreditorDetails.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.DatabaseConfig.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\bin\Debug\MySql.Data.dll
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.Dashboard.resources
+C:\Users\GEL8953\Documents\Visual Studio 2013\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.Login.resources
